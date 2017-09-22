@@ -36,6 +36,8 @@ Accountant
 Administrator
 
 Manage departments of hospital Manage doctor account Manage patient account Manage nurse account
+
+
 Manage pharmacist account Manage laboratories account Manage accountant account 
 Monitor hospital events Watch transaction reports of patient payment Bed, ward, cabin status 
 Watch blood bank report 
