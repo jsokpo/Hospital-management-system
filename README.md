@@ -35,11 +35,15 @@ Accountant
 
 Administrator
 
-Manage departments of hospital Manage doctor account Manage patient account Manage nurse account
-
-
-Manage pharmacist account Manage laboratories account Manage accountant account 
-Monitor hospital events Watch transaction reports of patient payment Bed, ward, cabin status 
+Manage departments of hospital
+Manage doctor account 
+Manage patient account 
+Manage nurse account
+Manage pharmacist account
+Manage laboratories account
+Manage accountant account 
+Monitor hospital events
+Watch transaction reports of patient payment Bed, ward, cabin status 
 Watch blood bank report 
 Watch medicine status of hospital stock 
 Watch operation report Watch birth report 
@@ -48,19 +52,9 @@ Bed allotment status and admit history 
 Manage noticeboard for all users of hospital 
 Manage system settings 
 Watch system log of user interactions 
-Manage language of the software Create backup and restore anytime 
+Manage language of the software 
+Create backup and restore anytime 
 Manage own profile
-
-
-
-
-
-
-
-
-
-
-
 
 
 
@@ -73,6 +67,7 @@ View diagnostic report of patients. 
 Creates, discharge bed allotment for patient
 View blood bank status
 Issue for operation of patients and creates operation report
+
 
 Patient
 View appointment list and status with doctors
