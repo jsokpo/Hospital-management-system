@@ -2,7 +2,24 @@
 
 This fully complete demo project of the hospital management system allows authenticated users manage the statutory components of a health system.
 
+
+
+
+
+
+
+
+
+
 This web based application is robust and was built on Code Igniter frameworks of PHP open source programming language and MySQL database.
+
+
+
+
+
+
+
+
 
 This system integrates and facilitates 7 types of user area of a hospital:
 Administrator
@@ -12,6 +29,10 @@ Nurse 
 Pharmacist 
 Laboratories 
 Accountant
+
+
+
+
 Administrator
 
 Manage departments of hospital Manage doctor account Manage patient account Manage nurse account
@@ -27,6 +48,19 @@ Manage system settings 
 Watch system log of user interactions 
 Manage language of the software Create backup and restore anytime 
 Manage own profile
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 Doctor
 Manage patient. Account opening and updating 
