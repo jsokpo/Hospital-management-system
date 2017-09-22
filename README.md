@@ -22,13 +22,13 @@ This web based application is robust and was built on Code Igniter frameworks of
 
 
 This system integrates and facilitates 7 types of user area of a hospital:
-Administrator
-Doctor 
-Patient 
-Nurse 
-Pharmacist 
-Laboratories 
-Accountant
+Administrator,
+Doctor, 
+Patient, 
+Nurse, 
+Pharmacist, 
+Laboratories, 
+Accountant,
 
 
 
@@ -59,6 +59,7 @@ Manage own profile
 
 
 Doctor
+
 Manage patient. Account opening and updating 
 Create, manage appointment with patient
 Create prescription for patient Keep record of patient case history 
@@ -70,6 +71,7 @@ Issue for operation of patients and creates operation report
 
 
 Patient
+
 View appointment list and status with doctors
 View prescription details View medication from doctor 
 View medication from pharmacist View / download diagnostic report from laboratories. 
@@ -78,6 +80,7 @@ View operation history View admit history. Like bed, ward ICU etc. 
 View invoices Pay hand cash to accountant or pay online [PAYPAL]
 
 Nurse
+
 Manage patient. 
 Account opening and updating 
 Allot bed, ward, and cabin for patients
@@ -86,17 +89,20 @@ Manage blood bank and update status 
 Manage blood donors Keep record of patient operation, baby born and death of patient
 
 Pharmacist
+
 Maintain medicine Keep records of hospitals stock medicines and status
 Manage medicine categories Watch prescription of patient 
 Provide medication to prescriptions
 
 Laboratories
+
 Watch prescription list 
 Upload diagnostic report 
 Preview of diagnostic report files 
 Manage blood bank Manage blood donors and maintain their status
 
 Accountant
+
 Create invoice for payment Order invoice to patient 
 Take cash payment
 
