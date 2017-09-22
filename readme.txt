@@ -1,6 +1,6 @@
-It is web-based software. Fee include hosting setup, branding, logo, custom theme or background colors and adding of some sample data as per your company needs.
-These are features of the website. Screenshot is provided above.
-Advanced, powerful, flexible complete management software for hospital, clinic and medical institutes. Integrates and facilitates 7 types of user area of a hospital:
+This fully complete project of the hospital management system allows authenticated users manage the statutory components of a health system.This web based application is robust and was built on Code Igniter frameworks of PHP open source programming language and MySQL database.
+
+This system integrates and facilitates 7 types of user area of a hospital:
 
 Administrator
 Doctor
