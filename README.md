@@ -1,4 +1,76 @@
 # Hospital-management-system
 
-Issue for operation of patients and creates operation report4950Patient5152View appointment list and status with doctors53View prescription details54View medication from doctor55View medication from pharmacist56View / download diagnostic report from laboratories.57View doctor list58View blood bank status59View operation history60View admit history. Like bed, ward ICU etc.61View invoices62Pay hand cash to accountant or pay online [PAYPAL]6364Nurse6566Manage patient. Account opening and updating67Allot bed, ward, and cabin for patients68Provide medication according to patient prescription69Manage blood bank and update status70Manage blood donors71Keep record of patient operation, baby born and death of patient7273Pharmacist7475Maintain medicine76Keep records of hospitals stock medicines and status77Manage medicine categories78Watch prescription of patient79Provide medication to prescriptions8081Laboratories8283Watch prescription list84Upload diagnostic report85Preview of diagnostic report files86Manage blood bank87Manage blood donors and maintain their status888990configuration and installation911. import the 'hms' database from the database folder of the application.922. 93Accountant9495Create invoice for payment96Order invoice to patient97Take cash payment9899Security100101Highly secured against security threats102MySQL-injection, xss attack, csrf protected103104Responsive105106The software is completely responsive107Supports desktop, laptop, smartphone and tablet108109
+This fully complete demo project of the hospital management system allows authenticated users manage the statutory components of a health system.
 
+This web based application is robust and was built on Code Igniter frameworks of PHP open source programming language and MySQL database.
+
+This system integrates and facilitates 7 types of user area of a hospital:
+Administrator
+Doctor 
+Patient 
+Nurse 
+Pharmacist 
+Laboratories 
+Accountant
+Administrator
+
+Manage departments of hospital Manage doctor account Manage patient account Manage nurse account
+Manage pharmacist account Manage laboratories account Manage accountant account 
+Monitor hospital events Watch transaction reports of patient payment Bed, ward, cabin status 
+Watch blood bank report 
+Watch medicine status of hospital stock 
+Watch operation report Watch birth report 
+Watch death report 
+Bed allotment status and admit history 
+Manage noticeboard for all users of hospital 
+Manage system settings 
+Watch system log of user interactions 
+Manage language of the software Create backup and restore anytime 
+Manage own profile
+
+Doctor
+Manage patient. Account opening and updating 
+Create, manage appointment with patient
+Create prescription for patient Keep record of patient case history 
+Provide medication for patients 
+View diagnostic report of patients. 
+Creates, discharge bed allotment for patient
+View blood bank status
+Issue for operation of patients and creates operation report
+
+Patient
+View appointment list and status with doctors
+View prescription details View medication from doctor 
+View medication from pharmacist View / download diagnostic report from laboratories. 
+View doctor list View blood bank status 
+View operation history View admit history. Like bed, ward ICU etc. 
+View invoices Pay hand cash to accountant or pay online [PAYPAL]
+
+Nurse
+Manage patient. 
+Account opening and updating 
+Allot bed, ward, and cabin for patients
+Provide medication according to patient prescription 
+Manage blood bank and update status 
+Manage blood donors Keep record of patient operation, baby born and death of patient
+
+Pharmacist
+Maintain medicine Keep records of hospitals stock medicines and status
+Manage medicine categories Watch prescription of patient 
+Provide medication to prescriptions
+
+Laboratories
+Watch prescription list 
+Upload diagnostic report 
+Preview of diagnostic report files 
+Manage blood bank Manage blood donors and maintain their status
+
+Accountant
+Create invoice for payment Order invoice to patient 
+Take cash payment
+
+Security
+Highly secured against security threats MySQL-injection, xss attack, csrf protected
+
+Responsive
+The software is completely responsive Supports desktop, laptop, smartphone and tablet
