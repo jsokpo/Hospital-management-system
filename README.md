@@ -105,3 +105,21 @@ Highly secured against security threats MySQL-injection, xss attack, csrf prote
 
 Responsive
 The software is completely responsive Supports desktop, laptop, smartphone and tablet
+
+# Configuration and Installation
+1. Import 'hms' file from database folder to phpMyAdmin after creating the database
+2. Open 'system' folder, Click on 'DB_driver' file and edit hostname, username, password and database variables
+   according to your server settings.
+3. Launch the application!!
+
+
+
+4. User login details include:
+  i. Doctor: email: mojonugwa@hms.com, password: doctor13248
+  ii. Admin: email: jsokpo@hms.com, password: admin13317
+  iii. Nurse: email: palaye@hms.com, password: nurse13305
+  iv. Patient: email: mogbebe@hms.com, password: patient13309
+  v. Pharmacist: email: gachubu@hms.com, password: pharmacist13313
+  vi. Accountant:email: jalabi@hms.com, password: accountant13244
+  vii. Laboratorist: email: senedu@hms.com, password: laboratorist13252
+  
